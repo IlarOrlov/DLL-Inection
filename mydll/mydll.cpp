@@ -7,7 +7,7 @@ extern "C"
 {
 	DECLDIR void Share()
 	{
-		MessageBox(NULL, L"The box was summoned from the notepad application!", L"Ola! Ilar Orlov", MB_OK | MB_ICONSTOP);
+		MessageBox(NULL, L"Your notepad got hacked!", L"Ola! Ilar Orlov", MB_OK | MB_ICONSTOP);
 	}
 	void Keep()
 	{
